@@ -9,6 +9,7 @@ Place it in the modules folder and enable it in bootstrap.
 Examples
 --------
 Basic usage
+
 	<?php
 	$MailChimp = new Mailchimp('abc123abc123abc123abc123abc123-us1'); // where 'abc123abc123abc123abc123abc123-us1' is your API key
 	?>
